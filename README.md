@@ -6,8 +6,8 @@ A movie trailer website
 
 ### Running the website:
 1) Use following command to go to that repository
-   $cd "path of repository"
+   _$cd "path of repository"_
 2) Then use the following command
-    $python entertainment.py
+    _$python entertainment.py_
     
  3) As you enter website will open in broswer. Enjoy watching trailers.
