@@ -1,7 +1,7 @@
 import media
 import fresh_tomatoes
 
-# This file define the objects of six movies which trailer is going to be 
+# This file define the objects of six movies which trailer is going to be
 # displayed on website.Each object conatins following details:
 # Movie name
 # Brief about story
