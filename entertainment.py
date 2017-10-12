@@ -1,6 +1,12 @@
 import media
 import fresh_tomatoes
 
+# This file define the objects of six movies which trailer is going to be displayed on website.
+# Each object conatins following details:
+# Movie name
+# Brief about story
+# Poster URL
+# Trailer URL
 mountain_man = media.Movie("The Mountain Man",
                            """A story of a man who cut the mountain in the
                               memory of his beloved wife.""",
