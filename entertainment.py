@@ -1,8 +1,8 @@
 import media
 import fresh_tomatoes
 
-# This file define the objects of six movies which trailer is going to be displayed on website.
-# Each object conatins following details:
+# This file define the objects of six movies which trailer is going to be 
+# displayed on website.Each object conatins following details:
 # Movie name
 # Brief about story
 # Poster URL
@@ -43,3 +43,4 @@ The_Core = media.Movie("The Core",
 
 movies = [mountain_man, avatar, SpiderMan, X_Men, Harry_Porter, The_Core]
 fresh_tomatoes.open_movies_page(movies)
+
