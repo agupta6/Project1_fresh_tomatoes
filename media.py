@@ -6,7 +6,11 @@ class Movie():
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
         """This is a constructor method.It initialize all the Movie
-           variables."""
+           variables. It takes the following inputs:
+           movie_title     [in] the name of movie
+           movie_storyline [in] the storyline of movie
+           poster_image    [in] the poster image url of movie
+           trailer_youtube [in] the movie trailer url"""
         self.title = movie_title
         self.storyline = movie_storyline
         self.poster_image_url = poster_image
